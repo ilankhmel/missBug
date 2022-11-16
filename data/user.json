@@ -1,0 +1,26 @@
+[
+  {
+    "username": "puki",
+    "password": "123",
+    "fullname": "puko",
+    "_id": "Nbg0S",
+    "bugs": 2,
+    "isAdmin": false
+  },
+  {
+    "username": "9",
+    "password": "j",
+    "fullname": "kk",
+    "_id": "XYQqR",
+    "bugs": 0,
+    "isAdmin": false
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "fullname": "admin",
+    "_id": "s1K21",
+    "bugs": 0,
+    "isAdmin": true
+  }
+]
